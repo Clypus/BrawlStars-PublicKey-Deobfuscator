@@ -21,3 +21,7 @@ This code is provided for educational purposes only. The author does not take re
    python3 deobfuscate.py
 5. The script will output the "Obfuscated Key" and "Deobfuscated Key" in the terminal.
    
+#Special Thanks:
+Demircnq and MehmetEfeFriday
+
+
