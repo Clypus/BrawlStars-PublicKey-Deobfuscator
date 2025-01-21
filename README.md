@@ -16,10 +16,13 @@ This code is provided for educational purposes only. The author does not take re
    cd BrawlStars-PublicKey-Deobfuscator
    ```
 3. Ensure Python is installed (Python 3.6 or higher is recommended).
-4. Run the script:
+
+4. Place the libg.so file in the lib folder.
+
+5. Run the script:
    ```bash
    python3 deobfuscate.py
-5. The script will output the "Obfuscated Key" and "Deobfuscated Key" in the terminal.
+6. The script will output the "Obfuscated Key" and "Deobfuscated Key" in the terminal.
    
 # Special Thanks:
 Demircnq and MehmetEfeFriday
