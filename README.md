@@ -16,12 +16,8 @@ This code is provided for educational purposes only. The author does not take re
    cd BrawlStars-PublicKey-Deobfuscator
    ```
 3. Ensure Python is installed (Python 3.6 or higher is recommended).
-4. Install the required dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Run the script:
+4. Run the script:
    ```bash
    python3 deobfuscate.py
-6. The script will output the "Obfuscated Key" and "Deobfuscated Key" in the terminal.
+5. The script will output the "Obfuscated Key" and "Deobfuscated Key" in the terminal.
    
